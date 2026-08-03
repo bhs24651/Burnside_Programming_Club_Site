@@ -24,6 +24,7 @@ html {
     position: absolute;
     text-align: left;
     width: 55%;
+    max-width: 750px;
     color: #ffffff;
     font-size: 1em;
     padding-left: 10px;
