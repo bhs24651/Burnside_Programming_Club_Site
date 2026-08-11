@@ -65,11 +65,16 @@ ul li a.active {
 }
 
 .homepage-hero-links {
-    display: inline;
+    display: block;
+    margin-top: 25px;
 }
 
 a.homepage-hero-link {
-    padding-right: 20px;
+    padding: 10px 20px;
+    margin-right: 20px;
+    background-color: #cccccc;
+    color: #000000;
+    text-decoration: none;
 }
 
 /* Two Column Section styling */
@@ -96,6 +101,7 @@ img {
 }
 
 /* Call-to-action Section styling */
+
 .call-to-action {
     display: block flex;
     flex-direction: column;
@@ -105,6 +111,13 @@ img {
     padding-bottom: 20px;
     color: #ffffff;
     background-color: #000000;
+}
+
+a.call-to-action-link {
+    padding: 10px 20px;
+    background-color: #cccccc;
+    color: #000000;
+    text-decoration: none;
 }
 
 /* Common footer styling */
