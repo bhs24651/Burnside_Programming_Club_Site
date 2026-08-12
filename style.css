@@ -10,6 +10,12 @@ html {
 
 /* Navbar styling */
 
+nav {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
