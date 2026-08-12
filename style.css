@@ -46,7 +46,7 @@ ul li a.active {
 
 .homepage-hero-section {
     background-image: url("./assets/20260627_163255.jpg");
-    height: 700px;
+    height: 90vh;
 }
 
 .homepage-hero-text {
@@ -61,7 +61,7 @@ ul li a.active {
     color: #ffffff;
     font-size: 1em;
     padding-left: 10px;
-    padding-top: 210px;
+    padding-top: 27.5vh;
 }
 
 .homepage-hero-links {
