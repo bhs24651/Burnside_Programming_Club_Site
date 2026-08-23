@@ -55,7 +55,11 @@ ul li a.active {
 /* Homepage Hero Section styling */
 
 .homepage-hero-section {
-    background-image: url("./assets/20260627_163255.jpg");
+    background-image: url("./assets/burnside_programming_club_logo.png");
+    background-color: #52a6a9;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size:50%;
     height: 90vh;
 }
 
