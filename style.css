@@ -113,6 +113,8 @@ a.homepage-hero-link {
     margin: auto;
     height: 480px;
     grid-gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 img {
