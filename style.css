@@ -112,6 +112,7 @@ a.homepage-hero-link {
     align-items: center;
     margin: auto;
     height: 480px;
+    grid-gap: 20px;
 }
 
 img {
