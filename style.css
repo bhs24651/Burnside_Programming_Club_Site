@@ -173,5 +173,18 @@ footer {
     display: block;
     align-items: center;
     margin: auto;
+    background-color: #004e42;
+}
+
+.footer-container {
     max-width: 1366px;
+    width: 100%;
+    margin: auto;
+}
+
+footer p {
+    display: block;
+    color: #ffffff;
+    padding: 1em;
+    margin: 0px !important;
 }
