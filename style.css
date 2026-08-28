@@ -25,7 +25,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333333;
+    background-color: #004e42;
 }
 
 div.pages {
@@ -44,12 +44,12 @@ ul li a {
     text-decoration: none;
 }
 
-ul li a:hover:not(.active) {
-    color: #aaaaaa;
+ul div.pages li a:hover:not(.active) {
+    color: #bbbbbb;
 }
 
 ul li a.active {
-    color: #aaaaaa;
+    color: #bbbbbb;
 }
 
 /* Homepage Hero Section styling */
