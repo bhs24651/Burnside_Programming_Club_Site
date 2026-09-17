@@ -244,3 +244,14 @@ footer p {
     padding-left: 20px;
     padding-top: 32px;
 }
+
+/* About page backstory styling */
+
+.aboutpage-backstory-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 90%;
+    max-width: 1024px;
+    margin: auto;
+    padding: 20px;
+}
