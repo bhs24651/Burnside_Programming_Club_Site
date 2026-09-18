@@ -127,7 +127,7 @@ a.homepage-hero-link {
     text-decoration: none;
 }
 
-/* Two Column Section styling */
+/* Homepage Two Column Section styling */
 
 .two-column {
     display: grid;
@@ -254,4 +254,77 @@ footer p {
     max-width: 1024px;
     margin: auto;
     padding: 20px;
+}
+
+/* Join Page Two Column Section styling */
+
+.two-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    max-width: 1366px;
+    align-items: center;
+    margin: auto;
+    height: 480px;
+    grid-gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img {
+    width: 100%;
+    max-height:  480px;
+    object-fit: cover;
+}
+
+.two-column-text {
+    padding: 20px;
+    width: auto;
+}
+
+.two-column-text#two-column-join-1 h2 {
+    color: #004e42;    
+}
+
+.two-column#two-column-join-2 {
+    background-color: #003a2c;
+}
+
+.two-column-text#two-column-join-2 h2 {
+    color: #00ab8e;
+}
+
+.two-column-text#two-column-join-2 p {
+    color: #ffffff;
+}
+
+.two-column#two-column-join-3 h2 {
+    color: #004e42;
+}
+
+.two-column#two-column-join-4 {
+    background-color: #00ab8e;
+}
+
+/* Join Page Call-to-action */
+.join-call-to-action {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+    max-width: 1366px;
+    align-items: center;
+    margin: auto;
+    height: auto;
+    grid-gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.join-call-to-action-text {
+    padding: 20px;
+    width: auto;
+    color: #ffffff;
+    background-color: #00ab8e;
+    padding-top: 10px;
+    padding-bottom: 32px;
 }
