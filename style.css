@@ -328,3 +328,57 @@ img {
     padding-top: 10px;
     padding-bottom: 32px;
 }
+
+/* Resources Page Styling */
+
+.resources-heading {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+    max-width: 1366px;
+    align-items: center;
+    margin: auto;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.resources-one-column {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+    max-width: 1366px;
+    align-items: center;
+    margin: auto;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.resources-two-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+    max-width: 1366px;
+    align-items: center;
+    margin: auto;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.resources-three-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 100%;
+    max-width: 1366px;
+    margin: auto;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.resources-item {
+    padding: 20px;
+}
