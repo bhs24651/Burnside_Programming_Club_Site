@@ -382,3 +382,41 @@ img {
 .resources-item {
     padding: 20px;
 }
+
+/* Contact Page Styling */
+
+.contact-headings {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+    max-width: 1366px;
+    align-items: center;
+    margin: auto;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.contact-headings h2 {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.contact-profile {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+    max-width: 1366px;
+    align-items: center;
+    margin: auto;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.contact-profile-role {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
