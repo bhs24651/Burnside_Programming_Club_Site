@@ -51,6 +51,24 @@ ul li a {
     text-decoration: none;
 }
 
+p#programming-club-separator {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 5px;
+    text-decoration: none;
+    margin: 0px !important;
+}
+
+p#programming-club-descriptor {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 15px 20px 5px;
+    text-decoration: none;
+    margin: 0px !important;
+}
+
 ul div.pages li a:hover:not(.active) {
     color: #bbbbbb;
 }
