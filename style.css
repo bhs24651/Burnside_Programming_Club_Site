@@ -402,7 +402,7 @@ img {
 .contact-headings {
     display: grid;
     grid-template-columns: 1fr;
-    width: 100%;
+    width: auto;
     max-width: 1366px;
     align-items: center;
     margin: auto;
@@ -415,12 +415,13 @@ img {
 .contact-headings h2 {
     margin-top: 10px !important;
     margin-bottom: 10px !important;
+    line-height: 1.5;
 }
 
 .contact-profile {
     display: grid;
     grid-template-columns: 1fr;
-    width: 100%;
+    width: auto;
     max-width: 1366px;
     align-items: center;
     margin: auto;
