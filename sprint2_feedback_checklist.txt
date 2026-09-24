@@ -1,0 +1,60 @@
+Website Testing – Peer Assessment Checklist
+Instructions: 
+Mark given checkboxes with 'X' if it meets criteria.
+Leave unchecked if it needs improvement.
+
+Feedback Tips:
+ Be specific – say exactly what is good and what needs improvement.
+ Use “I” statements – e.g., I found it easy to read the text because…
+ Always write one positive and one suggestion for each section.
+
+1. Aesthetics – How does it look?
+[X] Contrast – Text is clear and easy to read.
+[X] Alignment – Everything is lined up neatly.
+[X] Proximity – Related items are close; unrelated items have space.
+[X] Consistency – Same fonts, colours, and styles across pages.
+[X] Balance – Not too crowded or too empty.
+[X] White Space – Enough empty space around text and images.
+Score (0–6): 6
+Feedback: 
+
+Some of the text is slightly too small for the space, particularly on the join page. 
+Some places are also a little bland which is not necessarily a bad thing but you could liven the sight up a bit and make it more interesting. 
+A suggestion would be putting background cloured boxes behind some text to eliminate some white space.
+___________________________________________________________
+
+2. Functionality – Does it work?
+[X] Links – All links work and go to the right place.
+[X] Navigation – Menus and buttons take you where expected.
+[X] Scrolling – You can scroll without problems.
+[X] Page Load – No errors; all images and text appear.
+[X] Responsive – Works well on a desktop screen.
+Score (0–5): 5
+Feedback: 
+
+<none>
+___________________________________________________________
+
+3. Usability – Is it easy to use?
+[X] Readability – Text is big enough and easy to read.
+[X] Accessibility – Clear headings, alt text for images, good contrast.
+[X] Find Info – Information is easy to find.
+[X] User Friendly – Feels welcoming and clear.
+Score (0–4): 4
+Feedback: 
+
+Some text was on the smaller side and harder to read, however, the site was very welcoming and engaging.
+___________________________________________________________
+
+4. Bonus Criteria (Optional)
+[X] Purpose – Easy to see what the site is about.
+[X] Engaging – Makes you want to explore more.
+[X] Spelling – No big spelling or grammar mistakes.
+Score (0–3): 3
+Feedback: 
+
+Overall a very great site!
+___________________________________________________________
+
+
+Special Thanks to 24497@burnside.school.nz for the feedback!
